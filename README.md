@@ -55,4 +55,7 @@ Currently has links to popular Google applications in a 3x3 grid. There is some 
 		jpm run --binary /C/Program\ Files/Nightly/firefox.exe \
     				--profile /C/Users/.../ffx-addon-prof --debug
 
+## Links
 
+- [jpm](https://github.com/mozilla-jetpack/jpm)
+- [web-ext](https://github.com/mozilla/web-ext)
